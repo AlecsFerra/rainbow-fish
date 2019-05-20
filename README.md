@@ -1,4 +1,4 @@
-# ranbow-fish
+# rainbow-fish
 A simple util function to print rainbow test in fish shell!
 
 It can be used for a lot of things!
