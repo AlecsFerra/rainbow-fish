@@ -1,5 +1,5 @@
 # rainbow-fish
-A simple util function to print rainbow test in fish shell!
+A simple util function to print rainbow text in fish shell!
 
 It can be used for a lot of things!
 For example you can use it to make your fish prompt multy color!
