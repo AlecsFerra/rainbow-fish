@@ -1,8 +1,11 @@
 # rainbow-fish
 A simple util function to print rainbow text in fish shell!
 
-It can be used for a lot of things!
-For example you can use it to make your fish prompt multy color!
+## Output example
+![](DeepinScreenshot_20190520185616.jpg)
+
+## Rainbow prompt
+You can use it to make your fish prompt multy color!
 
 ``` fish
 function fish_prompt
