@@ -32,8 +32,3 @@ function fish_prompt
 end
 
 ```
-
-
-``` java
-for(var e : myArray)
-```
